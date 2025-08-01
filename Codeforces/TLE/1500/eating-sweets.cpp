@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to repeat a string 'times' times
 
 
 int main() {
